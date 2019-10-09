@@ -38,4 +38,3 @@ ABSTRACT = {In this paper, we present an approach to Spanish talk shows summariz
 DOI = {10.3390/app9183836}
 }
 ```
-
